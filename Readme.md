@@ -54,7 +54,7 @@ The Chelai Store Counter is a point-of-sale (POS) application designed to manage
     - View daily sales summaries.
 
 3. *Run the application*
-   `python Store_app.py`
+   `python StoreApp.py`
 
 ## Database Structure
  ```
