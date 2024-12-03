@@ -43,7 +43,8 @@ The Chelai Store Counter is a point-of-sale (POS) application designed to manage
 1. *Clone Repository*
    ```
    git clone <https://github.com/JAYCEEHERNANDEZ/PROJECT_PYTHON/tree/main>
-   cd <PROJECT_PYTHON> ```
+   cd <PROJECT_PYTHON>
+   ```
 
 
 2. *Use the interface to*
