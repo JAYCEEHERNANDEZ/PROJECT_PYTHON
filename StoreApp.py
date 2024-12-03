@@ -349,7 +349,7 @@ class StoreApp:
 
         sales_tree.pack(fill="both", expand=True)
 
-        total_sales_label = Label(summary_window, text="Total Sales: $0.00", font=("Arial", 14, "bold"))
+        total_sales_label = Label(summary_window, text="Total Sales: ₱0.00", font=("Arial", 14, "bold"))
         total_sales_label.pack(pady=5)
 
         def show_all_sales():
